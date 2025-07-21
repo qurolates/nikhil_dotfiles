@@ -1,0 +1,18 @@
+2025-07-20 19:02:40.327 [info] Extension host with pid 1877 started
+2025-07-20 19:02:40.327 [info] Skipping acquiring lock for /home/nikhil/.config/VSCodium/User/workspaceStorage/cf1f31cb6236be6dd7a9e385fc159e9f.
+2025-07-20 19:02:40.339 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-20 19:02:40.388 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-20 19:02:40.393 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-20 19:02:40.425 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-20 19:02:40.489 [info] Eager extensions activated
+2025-07-20 19:02:40.501 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-20 19:02:40.503 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-20 19:02:40.516 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-07-20 19:33:39.712 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-20 19:33:39.721 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-20 19:33:39.773 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-20 19:35:34.296 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-20 19:35:34.311 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-07-20 19:37:25.708 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-07-20 19:47:30.560 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-20 19:47:30.569 [info] Extension host with pid 1877 exiting with code 0

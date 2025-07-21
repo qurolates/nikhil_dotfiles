@@ -1,0 +1,144 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: DroidSansM Nerd Font;
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: transparent;
+    color: white;
+}
+
+tooltip {
+	background: #0f0f0f;
+	border-radius: 15px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #262626;
+	}
+
+#workspaces button {
+    padding: 5px 10px;
+    color: #f0f0f0;
+}
+
+#workspaces button.focused {
+    color: #0f0f0f;
+    background-color: #c49ec4;
+    border-radius: 15px;
+}
+
+#workspaces button.urgent {
+    color: #0f0f0f;
+    background-color: #9ec3c4;
+    border-radius: 15px;
+}
+
+#workspaces button:hover {
+	background-color: #c49ec4;
+	color: #0f0f0f;
+	border-radius: 15px;
+    transition: all 1s ease;
+}
+
+#custom-date, #mpris, #custom-uptime, #disk, #temperature, #clock, #battery, #pulseaudio, #network, #workspaces, #power-profiles-daemon, #backlight, #memory, #tray, #window, #cpu {
+	background-color: #0f0f0f;
+	padding: 5px 10px;
+	margin: 5px 0px;
+}
+
+#temperature, #disk {
+    color: #a5b4cb;
+}
+
+#cpu {
+    color: #9ec49f;
+}
+
+#custom-uptime {
+    color: #c4c19e;
+    border-radius: 15px 0px 0px 15px;
+    padding-right: 5px;
+}
+
+#power-profiles-daemon{
+    border-radius: 0px 15px 15px 0px;
+    margin-right: 10px;
+    color: #a5b4cb;
+    padding-left: 5px;
+}
+
+#workspaces {
+	background-color: #262626;
+	border-radius: 15px 15px 15px 15px;
+    margin-left: 10px;
+}
+
+#backlight {
+    color: #a39ec4;
+}
+
+#custom-date {
+	color: #9ec3c4;
+}
+
+#clock {
+    color: #a39ec4;
+    border-radius: 0px 15px 15px 0px;
+    margin-right: 10px;
+}
+
+#tray {
+    background-color: #262626;
+    border-radius: 15px 15px 15px 15px;
+    margin-right: 10px;
+}
+
+#window {
+    color: #a39ec4;
+    border-radius: 15px 15px 15px 15px;
+    margin-right: 10px;
+}
+
+#window {
+    color: #a39ec4;
+    border-radius: 15px 15px 15px 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#mpris {
+    color: #a5b4cb;
+    border-radius: 15px 15px 15px 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#battery {
+    color: #9ec49f;
+}
+
+#battery.charging {
+    color: #9ec49f;
+}
+
+#battery.warning:not(.charging) {
+    background-color: #c49ea0;
+    color: #0f0f0f;
+}
+
+#network {
+	color: #c4c19e;
+	border-radius: 15px 0px 0px 15px;
+    margin-left: 10px;
+}
+
+#memory {
+	color: #c4c19e;
+}
+
+#pulseaudio {
+	color: #a5b4cb;
+}

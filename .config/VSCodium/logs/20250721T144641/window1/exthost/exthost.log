@@ -1,0 +1,15 @@
+2025-07-21 14:46:44.885 [info] Extension host with pid 2232 started
+2025-07-21 14:46:44.923 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-21 14:46:45.006 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-21 14:46:45.013 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-21 14:46:45.115 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-21 14:46:45.289 [info] Eager extensions activated
+2025-07-21 14:46:45.291 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 14:46:45.296 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 14:46:45.330 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 14:48:39.499 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-21 14:48:39.517 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-21 14:48:39.548 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-07-21 14:48:39.691 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-07-21 14:49:21.805 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-21 14:49:21.822 [info] Extension host with pid 2232 exiting with code 0
